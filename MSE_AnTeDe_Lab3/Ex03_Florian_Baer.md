@@ -7,3 +7,6 @@ geometry: "left=2cm,right=2cm,top=2cm,bottom=2cm"
 output: pdf_document
 ---
 
+# Unsupervised Learning
+With unsuperived learning 
+# Supervised Learning
