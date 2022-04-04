@@ -1,0 +1,13 @@
+: human-plane-car
+Airplane Fly Car Drive
+Airplane Fly Human Run
+Car Drive Airplane Fly
+Car Drive Human Run
+Human Run Airplane Fly
+Human Run Car Drive
+Fly Airplane Drive Car
+Fly Airplane Run Human
+Drive Car Fly Airplane
+Drive Car Run Human
+Run Human Fly Airplane
+Run Human Drive Car

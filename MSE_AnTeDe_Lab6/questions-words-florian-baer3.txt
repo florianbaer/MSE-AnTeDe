@@ -1,0 +1,13 @@
+: human-parts-functions
+switzerland cheese italy pizza
+switzerland cheese usa burger
+italy pizza switzerland cheese
+italy pizza usa burger
+usa burger italy pizza
+usa burger switzerland cheese
+cheese switzerland pizza italy
+cheese switzerland burger usa
+pizza italy cheese switzerland
+pizza italy burger usa
+burger usa pizza italy
+burger usa cheese switzerland

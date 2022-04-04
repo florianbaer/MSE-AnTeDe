@@ -1,0 +1,13 @@
+: human-parts-functions
+eye see ear listen
+eye see foot walk
+ear listen foot walk
+ear listen eye see
+foot walk eye see
+foot walk ear listen
+see eye listen ear
+see eye walk foot
+listen ear walk foot
+listen ear see eye
+walk foot see eye
+walk foot listen ear
