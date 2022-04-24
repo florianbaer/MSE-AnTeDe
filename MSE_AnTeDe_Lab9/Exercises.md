@@ -12,6 +12,7 @@ The task is to write a one paper report regarding the Lab9. In the first lab we 
 # Assigments
 No, you can not change the number of classes to adapt regading the number of classes as these are the classes of the algorithm to make the shift, left or right arc operations. Therefor it calculates the proabilities of all of these three actions. The action with the highest probability will then be choosen.
 I tried the following number of neurons in the hidden unit with the following results:
+
 | Id 	| Number of Units 	| Dev UAS 	| Test UAS 	|
 |----	|-----------------	|---------	|----------	|
 | 1  	| 10              	| 79.11   	| 79.22    	|
